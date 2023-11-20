@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-	<base href="<?php echo base_url(); ?>">
+	<base href="/">
 	<title><?php echo $this->config->item('company') . '&nbsp;|&nbsp;' . $this->lang->line('common_software_short')  . '&nbsp;|&nbsp;' .  $this->lang->line('login_login'); ?></title>
 	<meta content="width=device-width, initial-scale=1" name="viewport">
   <meta content="noindex, nofollow" name="robots">
